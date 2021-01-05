@@ -1,0 +1,23 @@
+{
+  "name": "mobile-shopee",
+  "version": "1.0.0",
+  "description": "e-commerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./sass/style.scss style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oktoberlin/mobile-shopee.git"
+  },
+  "keywords": [
+    "e-commerce"
+  ],
+  "author": "oktoberlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oktoberlin/mobile-shopee/issues"
+  },
+  "homepage": "https://github.com/oktoberlin/mobile-shopee#readme"
+}
